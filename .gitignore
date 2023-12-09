@@ -6,3 +6,4 @@ cypress.json
 cypress/fixtures
 cypress/plugins
 cypress/support
+.yarn
